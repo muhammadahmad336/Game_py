@@ -1,2 +1,2 @@
-# Game_py
+# Projects
 Project programing Batch 6
